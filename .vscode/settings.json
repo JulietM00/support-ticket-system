@@ -1,1 +1,6 @@
 
+{
+    "git.addAICoAuthor": "all",
+    "git.autofetch": true,
+    "githubPullRequests.autoRepositoryDetection": true
+}
